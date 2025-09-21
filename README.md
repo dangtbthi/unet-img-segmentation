@@ -9,7 +9,7 @@ Encoder - Bottleneck - Decoder (upsampling, *not yet fully understand* skip conn
 ![U-Net Original Architecture](unet.png)
 
 ## Future Work
-Training and evaluating the model on many datasets
+Image segmentation using U-Net on many datasets 
 
 ## References
 1. Olaf Ronneberger, Philipp Fischer & Thomas Brox. *U-Net: Convolutional Networks for Biomedical Image Segmentation.* 2015. [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
